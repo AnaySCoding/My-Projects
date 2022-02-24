@@ -1,0 +1,19 @@
+#apps{
+    background-color: aqua;
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
+
+#games{
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
+#chatbot{
+    background-color:orangered;
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+}
